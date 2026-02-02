@@ -1,0 +1,7 @@
+{
+  "name": "Mercado de Pases",
+  "description": "Una plataforma para que jugadores de fútbol amateur y libres conecten con clubes y representantes de todo el mundo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
